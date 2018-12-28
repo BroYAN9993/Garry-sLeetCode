@@ -17,6 +17,7 @@ Input: 120
 Output: 21
 """
 
+
 class Solution(object):
     def reverse(self, x):
         """

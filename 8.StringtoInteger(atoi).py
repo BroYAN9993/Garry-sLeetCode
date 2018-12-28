@@ -18,6 +18,7 @@ Output: 4193
 Explanation: Conversion stops at digit '3' as the next character is not a numerical digit.
 """
 
+
 class Solution(object):
     def myAtoi(self, str):
         """

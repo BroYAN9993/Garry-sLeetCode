@@ -27,6 +27,7 @@ Y A   H R
 P     I
 """
 
+
 class Solution(object):
     def convert(self, s, numRows):
         """

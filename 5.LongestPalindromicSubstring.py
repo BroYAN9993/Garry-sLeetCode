@@ -13,6 +13,7 @@ Input: "cbbd"
 Output: "bb"
 """
 
+
 class Solution(object):
     def longestPalindrome(self, s):
         """
